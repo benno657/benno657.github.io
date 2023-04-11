@@ -1,5 +1,12 @@
-baseURL:
+baseURL: https://benno.app/
 languageCode: en-us
 title: Example
 theme: "PaperMod"
 
+# https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
+
+
+# hugo new posts/my-first-post.md
+# hugo server -D
+
+# Build settings
