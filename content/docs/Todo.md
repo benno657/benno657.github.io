@@ -1,8 +1,8 @@
 ---
 title: "Todo"
 date: 2023-04-11T11:58:44+02:00
-description: ""
-tags: ["programming", "physics", "electronics", "3d-printing"]
+description: "Todo"
+tags: ["programming"]
 draft: false
 ---
 
