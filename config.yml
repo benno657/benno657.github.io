@@ -45,26 +45,30 @@ params:
 
   # Home page settings
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true # Show breadcrumbs on top of the page
+  ShowBreadCrumbs: false # Show breadcrumbs on top of the page
   ShowCodeCopyButtons: true 
   UseHugoToc: true # Use Hugo's built-in table of contents
   tocLevels: "2..6"
 
   # Post metadata settings
-  hidemeta: false # Hide metadata such as date, author, tags, categories
-  hideSummary: false # Hide the summary as in the first paragraph of the post
+  hidemeta: true      # Hide metadata such as date, author, tags, categories
+  hideSummary: false  # Hide the summary as in the first paragraph of the post
   
   # Home page info
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hi there \U0001F60F" 
     Content: "Welcome to my site!"
 
   # Social icons
   socialIcons:
     - name: "github"
-      url: "https://github.com/"
-    - name: "linkedin"
-      url: "https://www.linkedin.com/"
+      url: "https://github.com/benno657"
+    - name: "discord"
+      url: "http://discordapp.com/users/Benno#5267"
+    - name: "instagram"
+      url: "http://instagram.com/bnossbring"
+    - name: "linkedin" 
+      url: "https://www.linkedin.com/in/benjamin-nossbring-a735a3198/"
 
   # Cover settings
   cover:
@@ -73,10 +77,10 @@ params:
     hiddenInSingle: true # Hide on single page
 
   # Edit post settings
-  editPost:
-    URL: "https://github.com/benno657/benno657.github.io/content"
-    Text: "Suggest Changes" # Edit text
-    appendFilePath: true # To append file path to Edit link
+#  editPost:
+#    URL: "https://github.com/benno657/benno657.github.io/content"
+#    Text: "Suggest Changes" # Edit text
+#    appendFilePath: true # To append file path to Edit link
 
 # Main menu settings
 menu:
@@ -98,8 +102,8 @@ menu:
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
+    # anchorLineNos: true 
     # codeFences: true
-    # guessSyntax: true
+    guessSyntax: true
     # lineNos: true
-    # style: monokai
+    # style: "monokai"

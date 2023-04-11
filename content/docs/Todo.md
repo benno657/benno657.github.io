@@ -3,6 +3,8 @@ title: "Todo"
 date: 2023-04-11T11:58:44+02:00
 description: "Todo"
 tags: ["programming"]
+tableOfContents: true
+#tocLevels: "3"
 draft: false
 ---
 

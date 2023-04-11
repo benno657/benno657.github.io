@@ -2,7 +2,10 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description: ""
-tags: ["programming", "physics", "electronics", "3d-printing"]
+tags: ["Programming", "Physics", "Electronics", "3D Printing"]
+categories: ["Getting started", "Code", "Electronics", "Physics", "3D Printing"]
+tableOfContents: true
+tocLevels: "3"
 draft: true
 ---
 

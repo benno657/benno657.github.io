@@ -4,6 +4,9 @@ date: {{ .Date }}
 draft: false
 description: "Description of the project."
 tags: ["Programming", "Physics", "Electronics", "3D Printing"]
+categories: ["Getting started", "Code", "Electronics", "Physics", "3D Printing"]
+tableOfContents: true
+tocLevels: "3"
 cover:
     image: "/images/cover-image.jpg"
     alt: "Cover image alt text"

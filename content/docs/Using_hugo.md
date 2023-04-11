@@ -3,6 +3,9 @@ title: "Getting started with hugo"
 date: 2023-04-11T11:24:09+02:00
 description: "A Quick Guide"
 tags: ["programming"]
+# add toc to the page
+tableOfContents: true
+#tocLevels: "3"
 draft: false
 ---
 
