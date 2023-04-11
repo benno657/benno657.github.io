@@ -1,6 +1,6 @@
 ---
 title: "Tree_struct"
-date: 2023-04-11T10:11:10+02:00
+date: 
 draft: false
 ---
 

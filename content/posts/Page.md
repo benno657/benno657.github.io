@@ -16,3 +16,9 @@ editPost:
   Text: "Suggest Changes"
   appendFilePath: true
 ---
+
+Now this is getting somewhere. I can write some text here. And I can use Markdown syntax. Look at this badboy go, this is perfect! 
+## Headings ofc
+And I can use emojis! :heart_eyes:
+'''I can even write code snippets!'''
+
