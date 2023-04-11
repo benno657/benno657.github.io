@@ -1,6 +1,6 @@
 baseURL: https://benno.app/
 languageCode: en-us
-title: iBenno
+title: Benno
 theme: "PaperMod"
 
 # Build settings
@@ -10,25 +10,27 @@ buildFuture: false
 buildExpired: false
 
 params:
-  title: iBenno
   description: "A viewfinder for iBenno"
   keywords: [Blog, Portfolio, PaperMod, Programming, Engineering, Technology, Science, Math]
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2023"
+  timeZone: "Europe/Stockholm"
+  dateFormat: "2006-01-02 kl. 15:04"
 
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
+
     - identifier: tags
       name: tags
       url: /tags/
       weight: 20
-    - identifier: Benno
-      name: benno.app
-      url: https://benno.app
+
+    - identifier: about
+      name: about
+      url: /about/
       weight: 30
 
 # Syntax highlighting
