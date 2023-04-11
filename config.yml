@@ -1,14 +1,17 @@
+# Site configuration
 baseURL: https://benno.app/
 languageCode: en-us
 title: Benno
 theme: "PaperMod"
-paginate: 10
-contentDir: ["docs", "posts"] # show both docs and posts
-# content on the home page
-homeSections:
-  - posts
-  - docs
 
+# Content configuration
+paginate: 10
+contentDir:
+  - "docs"
+  - "posts"
+homeSections:
+  - "posts"
+  - "docs"
 
 # Build settings
 enableRobotsTXT: true
@@ -16,71 +19,82 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+# Minification settings
 minify:
   disableXML: true
   minifyOutput: true
 
+# Site parameters
 params:
+  # SEO settings
   description: "A viewfinder for iBenno"
-  keywords: [Blog, Portfolio, PaperMod, Programming, Engineering, Technology, Science, Math]
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  keywords:
+    - "Blog"
+    - "Portfolio"
+    - "PaperMod"
+    - "Programming"
+    - "Engineering"
+    - "Technology"
+    - "Science"
+    - "Math"
+  images:
+    - "<link or path of image for opengraph, twitter-cards>"
   timeZone: "Europe/Stockholm"
   dateFormat: "2006-01-02 kl. 15:04"
+  enableDarkMode: "auto"
 
+  # Home page settings
   ShowPostNavLinks: true
   ShowBreadCrumbs: true # Show breadcrumbs on top of the page
-  #ShowWordCount: true
   ShowCodeCopyButtons: true 
   UseHugoToc: true # Use Hugo's built-in table of contents
-  # toc levels
   tocLevels: "2..6"
-  hidemeta: false # metadata as in date, author, tags, categories
-  hideSummary: false # summary as in the first paragraph of the post
+
+  # Post metadata settings
+  hidemeta: false # Hide metadata such as date, author, tags, categories
+  hideSummary: false # Hide the summary as in the first paragraph of the post
   
-  # home-info mode
+  # Home page info
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my site!
+    Content: "Welcome to my site!"
 
+  # Social icons
   socialIcons:
-    - name: github
+    - name: "github"
       url: "https://github.com/"
-    - name: linkedin
+    - name: "linkedin"
       url: "https://www.linkedin.com/"
 
+  # Cover settings
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: true # Hide everywhere but not in structured data
+    hiddenInList: true # Hide on list pages and home
+    hiddenInSingle: true # Hide on single page
 
+  # Edit post settings
   editPost:
     URL: "https://github.com/benno657/benno657.github.io/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-  
+    Text: "Suggest Changes" # Edit text
+    appendFilePath: true # To append file path to Edit link
 
-
+# Main menu settings
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: "categories"
+      name: "Categories"
+      url: "/categories/"
       weight: 10
-
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: "tags"
+      name: "Tags"
+      url: "/tags/"
       weight: 20
-
-    - identifier: about
-      name: about
-      url: /about/
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
       weight: 30
 
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # Syntax highlighting
-pygmentsUseClasses: true
-
 markup:
   highlight:
     noClasses: false
