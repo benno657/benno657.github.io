@@ -57,7 +57,7 @@ params:
   # Home page info
   homeInfoParams:
     Title: "Hi there \U0001F60F" 
-    Content: "Welcome to my site!"
+    Content: "Welcome to my site! Just rebuilt it so its kind of a work in progress..."
 
   # Social icons
   socialIcons:
