@@ -43,6 +43,12 @@ A simple way of documenting my projects, with a simple way of adding new project
 
 ---
 
+## WebUSB
+
+Adding a way of integrating WebUSB would be cool in order to program microcontrollers over the web.
+
+---
+
 ## Jupyter notebooks
 
 I love that, its so simple! Just simple markdown text but with functionality that makes a calculator drown in its own tears.
