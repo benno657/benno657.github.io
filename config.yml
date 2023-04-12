@@ -41,7 +41,16 @@ params:
     - "<link or path of image for opengraph, twitter-cards>"
   timeZone: "Europe/Stockholm"
   dateFormat: "2006-01-02 kl. 15:04"
-  enableDarkMode: "auto"
+
+  # Light and dark mode settings
+  colorScheme: "auto" # auto, light, dark
+  light_colors:
+    background_color: "#fff"
+    text_color: "#333"
+  dark_colors:
+    background_color: "#333"
+    text_color: "#fff"
+
 
   # Home page settings
   ShowPostNavLinks: true
