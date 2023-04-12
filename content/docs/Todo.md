@@ -17,7 +17,8 @@ As i work on multiple projects in multiple fields is have to prioritize what i w
 ## ChatGPT
 
 Both integration and explenation of good practices.
-Talking to people i have noticed that most common folks are quiet uninterested (understandably), and some other firends at uni talk about how they use it every day. Yet most people using it a lot seem to have a hard time geting the most out of it, or even a lot. One firend in particualr explained it like they were fighting it daily, trying to strangle answers out of it in order to get even a little bit of usefull information. 
+Talking to people i have noticed that most common folks are (understandably) quiet uninterested, and some other firends at uni talk about how they use it daily. 
+Yet most people using it a lot seem to have a hard time geting the most, or even any use out of it! One firend in particualr explained it like they were fighting it daily, trying to strangle answers out of it in order to get even a little bit of usefull information. 
 
 It reminds me a lot of what Jorges Luis Borges wrote about the library of babel; a library that contains every book that has ever been or ever will be written, but since it contains all possible combinations of letters, words and sentences, it is impossible to find something meaningfull. Ecpecially something usefull.
 
