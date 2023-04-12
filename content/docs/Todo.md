@@ -25,7 +25,7 @@ It feels like a realization of Jorges thought experiment... Filtering out the wo
 
 Luckily thats not remotly close to my experience! Apparantly i speant so much time experimenting with it i acualy got a grasp of how to navigate the thing. Ive already started working on a guide for that, *a hitchhikers guide to the library* of sorts. 
 
-Untill then, ill leave this quote from my friend Freddie: "Talk to it like its a stranger"
+Untill then, ill leave this quote from my friend Freddie: *"Talk to it like its a stranger"*
 
 ---
 
