@@ -17,13 +17,15 @@ As i work on multiple projects in multiple fields is have to prioritize what i w
 ## ChatGPT
 
 Both integration and explenation of good practices.
-Talking to people about it i have noticed that there are a lot of people that are interested and trying to use it, but they don't know how to use it get used to the model and how to use it in a good way. I want to make a guide for that.
+Talking to people i have noticed that most common folks are quiet uninterested (understandably), and some other firends at uni talk about how they use it every day. Yet most people using it a lot seem to have a hard time geting the most out of it, or even a lot. One firend in particualr explained it like they were fighting it daily, trying to strangle answers out of it in order to get even a little bit of usefull information. 
 
 It reminds me a lot of what Jorges Luis Borges wrote about the library of babel; a library that contains every book that has ever been or ever will be written, but since it contains all possible combinations of letters, words and sentences, it is impossible to find something meaningfull. Ecpecially something usefull.
 
 It feels like a realization of Jorges thought experiment... Filtering out the worst gibberish, making people lower their guard and then hit them with the most absurd and nonsensical things. 
 
-Luckily ive already started working on a guide for that, *a hitchhikers guide to the library* of sorts.
+Luckily thats not remotly close to my experience! Apparantly i speant so much time experimenting with it i acualy got a grasp of how to navigate the thing. Ive already started working on a guide for that, *a hitchhikers guide to the library* of sorts. 
+
+Untill then, ill leave this quote from my friend Freddie: "Talk to it like its a stranger"
 
 ---
 
