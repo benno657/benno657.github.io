@@ -42,8 +42,18 @@ params:
   timeZone: "Europe/Stockholm"
   dateFormat: "2006-01-02 kl. 15:04"
 
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowToc: true
+  ShowPostNavLinks: false
+  ShowCodeCopyButtons: true
+  
+
   # Light and dark mode settings
-  colorScheme: "auto" # auto, light, dark
+  # defaultTheme: light
+  # defaultTheme: dark
+  defaultTheme: auto # to switch between dark or light according to browser theme
+
   light_colors:
     background_color: "#fff"
     text_color: "#333"
