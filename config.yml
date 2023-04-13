@@ -42,7 +42,7 @@ params:
   timeZone: "Europe/Stockholm"
   dateFormat: "2006-01-02 kl. 15:04"
 
-  ShowShareButtons: true
+  # Site settings
   ShowReadingTime: true
   ShowToc: true
   ShowPostNavLinks: false
@@ -63,9 +63,7 @@ params:
 
 
   # Home page settings
-  ShowPostNavLinks: true
   ShowBreadCrumbs: false # Show breadcrumbs on top of the page
-  ShowCodeCopyButtons: true 
   UseHugoToc: true # Use Hugo's built-in table of contents
   tocLevels: "2..6"
 
